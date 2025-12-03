@@ -1,4 +1,4 @@
-# Inventory Management System (Spring Boot)
+# Product Management System (Spring Boot)
 
 A simple and efficient **Inventory / Product Management System** built using **Spring Boot**, **Spring Data JPA**, and **MySQL**. This project provides RESTful APIs to manage products, including add, update, delete, and search functionality.
 
