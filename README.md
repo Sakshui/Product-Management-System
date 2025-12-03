@@ -13,7 +13,6 @@ A simple and efficient **Inventory / Product Management System** built using **S
 * Fetch product by ID
 * Uses MySQL database
 * Layered architecture (Controller → Service → Repository)
-* Exception handling
 
 ---
 
